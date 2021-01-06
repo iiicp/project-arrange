@@ -1,3 +1,6 @@
 cmake-build*
 *.o
 .idea
+performance-optimazing.xcodeproj/project.xcworkspace/*
+performance-optimazing.xcodeproj/xcuserdata/*
+performance-optimazing.xcodeproj/xcshareddata/*
